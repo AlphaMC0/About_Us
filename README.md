@@ -9,6 +9,3 @@ Our journey began 3 students in JPA who are in coding club working hard. After t
 
 ## Our Mission
 Our mission is to transport players into a once civilized Mars and immerse themselves in different scenarios to have an idea of what it might look like. We believe in the power of games to inspire, entertain, and educate people.
-
-## Our Values
-At Epic Odyssey Games, we value creativity, collaboration, and inclusivity. We strive to create games that are not only fun to play, but also respectful and welcoming to all players.
